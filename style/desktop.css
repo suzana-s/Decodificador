@@ -1,0 +1,53 @@
+@media (min-width: 780px) {
+    main .flex-button{
+        display: flex;
+        gap: 24px;
+    }
+
+    .flex-left {
+        width: 65%;
+    }
+
+    .flex-rigth {
+        width: 35%;
+    }
+
+    section .msg {
+        padding: 150px 20px;
+    }
+    section .msg .background {
+        display: block;
+        background-color: #fff;
+    }
+
+    section .msg .background img{
+        background-color: #fff;
+        width: 90%;
+    }
+
+    .flex-desktop {
+        display: flex;
+        
+    }
+
+    main {
+        width: 90%;
+    }
+
+    main textarea {
+        width: 680px;
+        resize: none;
+        height: 360px;
+    }
+
+    .texto {
+        padding: 20px;
+        background-color: #fff;
+       
+    }
+
+    .texto h3{
+        background-color: #fff;
+    }
+
+}
